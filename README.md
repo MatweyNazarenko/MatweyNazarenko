@@ -38,12 +38,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazarenkoMatvey&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatweyNazarenko&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazarenkoMatvey&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatweyNazarenko&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
-*(Замените `NazarenkoMatvey` в ссылках выше на ваш точный никнейм на GitHub, если он отличается)*
 
 ---
 
