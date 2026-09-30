@@ -48,7 +48,7 @@ Hi! I’m Matwey. I develop websites and game.
 
 ## 📫 Connect with Me
 
-*Здесь будут мои контакты. Stay tuned!*
+*My contact details will be here...*
 
 <!-- 
 📧 Email: [ВСТАВИТЬ EMAIL]
