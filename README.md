@@ -1,8 +1,8 @@
-# 👾 Nazarenko Matvey | Web & Game Dev
+# 👾 Nazarenko Matwey | Web & Game Dev
 
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
-Привет! Я Матвей. Разрабатываю интерфейсы и игровые миры. Моя цель — стирать грань между вебом и реальностью через AR/VR/MR.
+Hi! I’m Matwey. I develop websites and game.
 
 ---
 
@@ -58,4 +58,4 @@
 
 ---
 
-> ⚡ **Fun Fact**: Я участвую в олимпиадах по физике. Да, я знаю, почему яблоко падает, и могу заставить его летать в Unity. 🍎🚀
+
